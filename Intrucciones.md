@@ -1,0 +1,3 @@
+- Descargar la aplicacion
+wget https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/DEV-AWS-MO-DevOps-C1/downloads/trivia-app.zip -O ~/trivia-app.zip
+unzip -o ~/trivia-app.zip
