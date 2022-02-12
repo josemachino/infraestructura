@@ -3,3 +3,15 @@
 
 - 
 unzip -o ~/trivia-app.zip
+- Para cambiar de permiso al archivo
+chmod u+x ex1.js
+#!/usr/bin/env nameProgram
+#!/usr/bin/envnode
+
+Este modulo sirve para parsear la entrada  de los argumentos
+require("minimist")
+  
+
+  https://yargs.js.org/docs/
+
+  http://wpage.unina.it/rcanonic/didattica/cdn/
